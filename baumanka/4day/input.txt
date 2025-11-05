@@ -1,0 +1,12 @@
+I love music.
+I love music.
+I love music.
+
+I love music of Kartik.
+I love music of Kartik.
+Thanks.
+$cat input.txt | go run uniq.go
+I love music.
+
+I love music of Kartik.
+Thanks.
